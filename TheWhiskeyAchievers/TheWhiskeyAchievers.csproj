@@ -172,6 +172,7 @@
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
     <Content Include="images\clarence.png" />
+    <Content Include="images\dan.png" />
     <Content Include="images\dave.png" />
     <Content Include="images\jessica.png" />
     <Content Include="images\jumbotron-back-1.jpg" />

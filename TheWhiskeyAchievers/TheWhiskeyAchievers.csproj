@@ -24,6 +24,12 @@
     <NuGetPackageImportStamp>44d88a0f</NuGetPackageImportStamp>
     <ApplicationInsightsResourceId>/subscriptions/d6d96b74-b868-42ed-9e62-509678d55797/resourcegroups/Default-ApplicationInsights-CentralUS/providers/microsoft.insights/components/TheWhiskeyAchievers</ApplicationInsightsResourceId>
     <WebGreaseLibPath>..\packages\WebGrease.1.5.2\lib</WebGreaseLibPath>
+    <MvcProjectUpgradeChecked>true</MvcProjectUpgradeChecked>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>12.0</OldToolsVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>

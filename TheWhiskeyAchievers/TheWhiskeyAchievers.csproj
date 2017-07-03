@@ -178,6 +178,7 @@
     <Content Include="Content\Site.css" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
+    <Content Include="images\aaron.png" />
     <Content Include="images\clarence.png" />
     <Content Include="images\dan.png" />
     <Content Include="images\dave.png" />
@@ -195,6 +196,7 @@
     <Content Include="images\jumbotron\jumbotron-back-9.png" />
     <Content Include="images\mike.png" />
     <Content Include="images\nick.png" />
+    <Content Include="images\spencer.png" />
     <Content Include="images\zero_logo.png" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
